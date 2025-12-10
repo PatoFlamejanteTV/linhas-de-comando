@@ -8,13 +8,13 @@ O repositório tem como objetivo fornecer comandos essenciais para uso em Termin
 
 ## Estrutura do Repositório
 
-- `Linux.md`: Comandos para sistemas Linux.
-- `Windows.md`: Comandos para sistemas Windows.
+- [`Linux.md`](linux): Comandos para sistemas Linux.
+- [`Windows.md`](windows): Comandos para sistemas Windows.
 
 ## Como Usar
 
 1. Clone o repositório.
-2. Navegue até o arquivo de comandos do sistema desejado (`Linux.md` ou `Windows.md`).
+2. Navegue até o arquivo de comandos do sistema desejado ([`Linux.md`](linux) ou [`Windows.md`](windows)).
 3. Utilize os comandos diretamente no seu Terminal.
 
 ## Contribuições
